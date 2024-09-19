@@ -33,3 +33,4 @@ The datasets contain stock market data with the following features:
 - Report: Detailed description of data preprocessing, feature selection, and model evaluations.
 - Jupyter Notebooks: Code for data cleaning, feature selection, model training, and evaluation.
 - Presentation: Provides an overview of the project, including objectives, methods, and key findings.
+- The Datasets.
